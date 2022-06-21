@@ -1,2 +1,2 @@
-# Projeto-curso-git-github-DIO
-Repositório para criação do Projeto de Git/Github da DIO.
+Projeto para criação de repositório no Github.
+Criação do Repositório para inseção de futuros projetos de minha autoria no Github.
